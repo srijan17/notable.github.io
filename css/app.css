@@ -1,0 +1,29 @@
+body, html {
+    background-color: gray;
+    height: 100%;
+}
+#videos {
+    left:0px;
+    height: 0px;
+    width: 50%;
+    height: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#list{
+    width: 100%;
+}
+#subscriber {
+    
+    width: 50%;
+    height: 50%;
+    z-index: 10;
+}
+#publisher {
+    width: 50%;
+    height: 50%;
+  
+    z-index: 10;
+    border: 3px solid white;
+    border-radius: 3px;
+}
